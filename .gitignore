@@ -1,0 +1,32 @@
+# Arquivos e pastas temporárias comuns
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Pastas de dependência
+node_modules/
+vendor/
+__pycache__/
+.venv/
+env/
+build/
+dist/
+target/
+*.egg-info/
+
+# Ambientes e configs
+.env
+.env.*
+
+# IDEs e editores
+.vscode/
+.idea/
+*.iml
+
+# macOS, Linux e Windows
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
